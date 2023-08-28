@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ungernthabaron
 - 👀 I’m interested in backend development 
-- 🌱 I’m currently learning python framework django
+- 🌱 I’m currently learning golang
 
 
 <!---
